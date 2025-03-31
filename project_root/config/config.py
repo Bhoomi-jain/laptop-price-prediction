@@ -1,4 +1,4 @@
-ROOT_DIR_PATH = "~/AiML-projects/laptop-price-prediction/project_root"
+ROOT_DIR_PATH = "~/mini_projects/laptop-price-prediction/project_root"
 FILENAME = "laptopData.csv"
 DATA_DIR = "dataset"
 
